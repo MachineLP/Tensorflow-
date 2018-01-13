@@ -1,3 +1,7 @@
+公众号MachineLN，邀请您扫码关注： 
+
+![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
 序列标注(sequence labelling)，输入序列每一帧预测一个类别。OCR(Optical Character Recognition 光学字符识别)。
 
 MIT口语系统研究组Rob Kassel收集，斯坦福大学人工智能实验室Ben Taskar预处理OCR数据集(http://ai.stanford.edu/~btaskar/ocr/ )，包含大量单独手写小写字母，每个样本对应16X8像素二值图像。字线组合序列，序列对应单词。6800个，长度不超过14字母的单词。gzip压缩，内容用Tab分隔文本文件。Python csv模块直接读取。文件每行一个归一化字母属性，ID号、标签、像素值、下一字母ID号等。
