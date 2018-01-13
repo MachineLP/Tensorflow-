@@ -5,6 +5,7 @@ Tensorflow实战学习笔记
 
 对dl感兴趣，还可以关注我的博客，这是我的博客目录：（地址： http://blog.csdn.net/u014365862/article/details/78422372 ）
 本文为博主原创文章，未经博主允许不得转载。有问题可以加微信：lp9628(注明CSDN)。
+11. [一个有趣的周报](http://blog.csdn.net/u014365862/article/details/78757109)
 
 人脸检测系列：
 1. 人脸检测——AFLW准备人脸
