@@ -1,3 +1,8 @@
+
+公众号MachineLN，邀请您扫码关注： 
+
+![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
 官网: https://www.tensorflow.org
 
 Github: https://github.com/tensorflow
