@@ -6,6 +6,10 @@ Tensorflow实战学习笔记
 对dl感兴趣，还可以关注我的博客，这是我的博客目录：（地址： http://blog.csdn.net/u014365862/article/details/78422372 ）
 本文为博主原创文章，未经博主允许不得转载。有问题可以加微信：lp9628(注明CSDN)。
 
+公众号MachineLN，邀请您扫码关注： 
+
+![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
 
 **人脸检测系列：**
 
