@@ -1,3 +1,7 @@
+公众号MachineLN，邀请您扫码关注： 
+
+![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
 ILSVRC(ImageNet Large Scale Visual Recognition Challenge)分类比赛。AlexNet 2012年冠军(top-5错误率16.4%，额外数据15.3%，8层神经网络)。VGGNet 2014年亚军(top-5错误率7.3%，19层神经网络)。Google Inception 2014年冠军(top-5错误率6.7%，22层神经网络)。ResNet 2015年冠军(top-5错误率3.57%，152层神经网络)。人眼错误率5.1%。卷积神经网络基本解决ImageNet数据集图片分类问题。
 
 ImageNet，2007年斯坦福大学李飞飞教授创办，收集大量带标注信息图片数据供计算机视觉模型训练。1500万张标注高清图片，22000类，100万张标注图片主要物体定位边框。眼睛生物照相机，每200ms拍一张，3岁已经上亿张。ImageNet下载互联网10亿张图片，亚马逊土耳其机器人平台众包标注过程，167个国家5万名工作者筛选标注。每年ILSVRC比赛数据120万张图片，1000类标注。top-5､top-1分类错误率模型性能评测指标。
