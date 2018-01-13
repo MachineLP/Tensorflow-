@@ -1,3 +1,7 @@
+公众号MachineLN，邀请您扫码关注： 
+
+![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
 TensorFlow并行，模型并行，数据并行。模型并行根据不同模型设计不同并行方式，模型不同计算节点放在不同硬伯上资源运算。数据并行，比较通用简便实现大规模并行方式，同时使用多个硬件资源计算不同batch数据梯度，汇总梯度全局参数更新。
 
 数据并行，多块GPU同时训练多个batch数据，运行在每块GPU模型基于同一神经网络，网络结构一样，共享模型参数。
