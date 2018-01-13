@@ -1,7 +1,7 @@
 # Tensorflow-
 Tensorflow实战学习笔记
 
-欢迎关注微信公众号：MachineLP
+欢迎关注微信公众号：MachineLN 
 
 对dl感兴趣，还可以关注我的博客，这是我的博客目录：（地址： http://blog.csdn.net/u014365862/article/details/78422372 ）
 本文为博主原创文章，未经博主允许不得转载。有问题可以加微信：lp9628(注明CSDN)。
