@@ -1,0 +1,4 @@
+1. TensorFlow的NCE-Loss的实现和word2vec
+http://www.jianshu.com/p/fab82fa53e16
+
+2. 通俗讲解TensorFlow的embedding_lookup
