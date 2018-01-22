@@ -1,5 +1,9 @@
 # Tensorflow-
-Tensorflow实战学习笔记
+# tensorflow_in_action ：： Tensorflow实战学习笔记
+# MachinLN ：： 机器学习进阶系列
+# Tensorflow ：： tensorflow实战代码
+# face_detection ：： 人脸检测系列
+# tf-API :: tensorflow api解读
 
 欢迎关注微信公众号：MachineLN 
 
