@@ -4,6 +4,7 @@
 # Tensorflow ：： tensorflow实战代码
 # face_detection ：： 人脸检测系列
 # tf-API :: tensorflow api解读
+# ml_in_action ：： 机器学习实战代码注释
 
 欢迎关注微信公众号：MachineLN 
 
