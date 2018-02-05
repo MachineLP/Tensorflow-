@@ -16,6 +16,52 @@
 ![image](http://upload-images.jianshu.io/upload_images/4618424-3ef1722341ba72d2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 
+**机器学习进阶系列：(下面内容在微信公众号同步)**
+
+1. [机器学习-1：MachineLN之三要素](http://blog.csdn.net/u014365862/article/details/78955063)
+
+2. [机器学习-2：MachineLN之模型评估](http://blog.csdn.net/u014365862/article/details/78959353)
+
+3. [机器学习-3：MachineLN之dl](http://blog.csdn.net/u014365862/article/details/78980142)
+
+4. [机器学习-4：DeepLN之CNN解析](http://blog.csdn.net/u014365862/article/details/78986089)
+
+5. [机器学习-5：DeepLN之CNN权重更新（笔记）](http://blog.csdn.net/u014365862/article/details/78959211)
+
+6. [机器学习-6：DeepLN之CNN源码](http://blog.csdn.net/u014365862/article/details/79010248)
+
+7. [机器学习-7：MachineLN之激活函数](http://blog.csdn.net/u014365862/article/details/79007801)
+
+8. [机器学习-8：DeepLN之BN](http://blog.csdn.net/u014365862/article/details/79019518)
+
+9. [机器学习-9：MachineLN之数据归一化](http://blog.csdn.net/u014365862/article/details/79031089)
+
+10. [机器学习-10：MachineLN之样本不均衡](http://blog.csdn.net/u014365862/article/details/79040390)
+
+11. [机器学习-11：MachineLN之过拟合](http://blog.csdn.net/u014365862/article/details/79057073) 
+
+12. [机器学习-12：MachineLN之优化算法](http://blog.csdn.net/u014365862/article/details/79070721)
+
+13. [机器学习-13：MachineLN之kNN](http://blog.csdn.net/u014365862/article/details/79091913)
+
+14. [机器学习-14：MachineLN之kNN源码](http://blog.csdn.net/u014365862/article/details/79101209)
+
+15. [](http://mp.blog.csdn.net/postedit/79135612)[机器学习-15：MachineLN之感知机](http://blog.csdn.net/u014365862/article/details/79135612)
+
+16. [机器学习-16：MachineLN之感知机源码](http://blog.csdn.net/u014365862/article/details/79135767)
+
+17. [机器学习-17：MachineLN之逻辑回归](http://blog.csdn.net/u014365862/article/details/79157777)
+
+18. [机器学习-18：MachineLN之逻辑回归源码](http://blog.csdn.net/u014365862/article/details/79157841)
+
+19. [机器学习-19：MachineLN之SVM（1）](http://blog.csdn.net/u014365862/article/details/79184858)
+
+20. [机器学习-20：MachineLN之SVM（2）](http://blog.csdn.net/u014365862/article/details/79202089)
+
+21. [机器学习-21：MachineLN之SVM源码](http://blog.csdn.net/u014365862/article/details/79224119)
+
+22. [机器学习-22：MachineLN之RL](http://blog.csdn.net/u014365862/article/details/79240997)
+
 **人脸检测系列：**
 
 1. [人脸检测——AFLW准备人脸](http://blog.csdn.net/u014365862/article/details/74682464)
@@ -48,9 +94,7 @@
 
 3. [**tf21: 身份证识别——识别身份证号**](http://blog.csdn.net/u014365862/article/details/78582128)
 
-4. [**tf22: ocr识别——不定长数字串识别**](http://blog.csdn.net/u014365862/article/details/78582417)
-
-5. [baiduyun_deeplearning_competition](https://github.com/MachineLP/baiduyun_deeplearning_competition)
+4. **[tf22: ocr识别——不定长数字串识别](http://blog.csdn.net/u014365862/article/details/78582417)**
 
 **机器学习，深度学习系列:**
 
@@ -114,28 +158,6 @@
 
 30. [根据已给字符数据，训练逻辑回归、随机森林、SVM，生成ROC和箱线图](http://blog.csdn.net/u014365862/article/details/78835541)
 
-**机器学习进阶系列：(下面内容在微信公众号同步)**
-
-1. [机器学习-1：MachineLN之三要素](http://blog.csdn.net/u014365862/article/details/78955063)
-
-2. [机器学习-2：MachineLN之模型评估](http://blog.csdn.net/u014365862/article/details/78959353)
-
-3. [机器学习-3：MachineLN之dl](http://blog.csdn.net/u014365862/article/details/78980142)
-
-4. [机器学习-4：DeepLN之CNN解析](http://blog.csdn.net/u014365862/article/details/78986089)
-
-5. [机器学习-5：DeepLN之CNN权重更新（笔记）](http://blog.csdn.net/u014365862/article/details/78959211)
-
-6. [机器学习-6：DeepLN之CNN源码](http://blog.csdn.net/u014365862/article/details/79010248)
-
-7. [机器学习-7：MachineLN之激活函数](http://blog.csdn.net/u014365862/article/details/79007801)
-
-8. [机器学习-8：DeepLN之BN](http://blog.csdn.net/u014365862/article/details/79019518)
-
-9. [机器学习-9：MachineLN之数据归一化](http://blog.csdn.net/u014365862/article/details/79031089)
-
-10. [机器学习-10：MachineLN之样本不均衡](http://blog.csdn.net/u014365862/article/details/79040390)
-
 **图像处理系列：**
 
 1. [python下使用cv2.drawContours填充轮廓颜色](http://blog.csdn.net/u014365862/article/details/77720368)
@@ -193,6 +215,10 @@
 8. [排序方法比较](http://blog.csdn.net/u014365862/article/details/52502824)
 
 9. [漫画 ：什么是红黑树？](https://mp.weixin.qq.com/s/JJVbi7kqDpLUuh696J7oLg)
+
+10. [牛客网刷题](https://www.nowcoder.com/activity/oj)
+
+11. [莫烦python 666](https://morvanzhou.github.io/)
 
 **kinect 系列：**
 
@@ -335,6 +361,16 @@
 52. [tf27: Deep Dream—应用到视频](http://blog.csdn.net/u014365862/article/details/53869830)
 
 53. [tf28: 手写汉字识别](http://blog.csdn.net/u014365862/article/details/53869837)
+
+54. [tf29: 使用tensorboard可视化inception_v4](http://blog.csdn.net/u014365862/article/details/79115556)
+
+55. [tf30: center loss及其mnist上的应用](http://blog.csdn.net/u014365862/article/details/79184966)
+
+56. [tf31: keras的LSTM腾讯人数在线预测](http://blog.csdn.net/u014365862/article/details/79186993)
+
+57. [tf32: 一个简单的cnn模型：人脸特征点训练](http://blog.csdn.net/u014365862/article/details/79187157)
+
+58. [tf33: 图片降噪：卷积自编码](http://blog.csdn.net/u014365862/article/details/79246179)
 
 **C++系列：**
 
