@@ -54,7 +54,7 @@ def splitDataSet(dataSet, axis, value):
             retDataSet.append(reducedFeatVec)
     return retDataSet
 
-# 选取特征计算信息熵，选取信息熵最大的特征作为此时最好的分类特征。
+# 选取特征计算信息增益，选取信息增益最大的特征作为此时最好的分类特征。
 def chooseBestFeatureToSplit(dataSet):
     # 计算总的特征数量， 一个样本的维度 = 特征+标签， 所以要减1。
     numFeatures = len(dataSet[0]) - 1     
