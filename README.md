@@ -24,7 +24,7 @@
 
 3. [机器学习-3：MachineLN之dl](http://blog.csdn.net/u014365862/article/details/78980142)
 
-4. [机器学习-4：DeepLN之CNN解析](http://blog.csdn.net/u014365862/article/details/78986089)
+4. [机器学习-4：DeepLN之CNN解析](http://blog.csdn.net/u014365862/article/details/78986089) 
 
 5. [机器学习-5：DeepLN之CNN权重更新（笔记）](http://blog.csdn.net/u014365862/article/details/78959211)
 
