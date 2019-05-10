@@ -5,6 +5,7 @@
 - [人脸检测系列](./face_detection)
 - [tensorflow api解读](./tf-API)
 - [机器学习实战代码注释](./ml_in_action)
+- [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 
 欢迎关注微信公众号：MachineLN 
 
